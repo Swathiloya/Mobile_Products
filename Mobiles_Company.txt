@@ -1,0 +1,11 @@
+S.NO*NAMES
+1*Redmi
+2*Realme
+3*Vivo
+4*Samsung
+5*Oppo
+6*Apple
+7*OnePlus
+8*Motorola
+9*Nokia
+10*Xiaomi
